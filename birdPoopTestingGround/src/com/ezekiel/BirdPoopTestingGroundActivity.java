@@ -8,22 +8,19 @@ import org.anddev.andengine.ui.activity.BaseGameActivity;
 public class BirdPoopTestingGroundActivity extends BaseGameActivity{
 
 	public void onLoadComplete() {
-		// TODO Auto-generated method stub
+		//TESTING!!!
 		
 	}
 
 	public Engine onLoadEngine() {
-		// TODO Auto-generated method stub
 		return null;
 	}
 
 	public void onLoadResources() {
-		// TODO Auto-generated method stub
 		
 	}
 
 	public Scene onLoadScene() {
-		// TODO Auto-generated method stub
 		return null;
 	}
 	
