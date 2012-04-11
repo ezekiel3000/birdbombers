@@ -10,6 +10,8 @@ public class BirdPoopTestingGroundActivity extends BaseGameActivity{
 	public void onLoadComplete() {
 		//TESTING!!!
 		
+		///GIve it a go now
+		
 	}
 
 	public Engine onLoadEngine() {
